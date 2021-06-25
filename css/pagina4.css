@@ -1,0 +1,158 @@
+.texto{
+    padding-right: 45%;
+    line-height: 170%;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+
+    font-family: 'Roboto', sans-serif;
+    color:#f8f8f8;
+    background-color: #1E3F5C;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 1ch;
+    font-size: 40px;
+
+}
+
+.texto{
+
+    color: rgb(0, 0, 0);
+    background-color: white;
+    border: solid;
+    border-color: #ffce3d;
+    border-radius: 1ch;
+    font-size: 18px;
+    margin-left: 30px;
+    margin-top: 120px;
+    margin-right: 800px;
+    padding-right: 30px;
+    border-width: 5px;
+    
+
+  }
+
+  p{
+
+    padding-left: 20px;
+    
+  }
+
+  body {
+
+    background-color:#2B5B85;
+
+}
+
+h1{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 41px;
+    left: 1360px;
+
+  }
+
+  .prox{
+
+    position: absolute;
+    top: 470px;
+    left: 850px;
+    background-color: #ffce3d;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 14px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;    
+
+  }
+
+  .ant{
+
+    position: absolute;
+    top: 470px;
+    left: 70px;
+    background-color: #ffce3d;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 14px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+
+  }
+
+  .prin1{
+
+    position: absolute;
+    top: 200px;
+    left: 60px;
+
+  }
+
+  .print2{
+
+    position: absolute;
+    top: 490px;
+    left: 60px;
+
+  }
+
+  
+  a {
+    color: #000;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+
+  }
+
+  .print5 img{
+    position: absolute;
+    right: 48px;
+    top: 131px;
+    width: 637px;
+    height: 314px;
+  }
+
+  .print6 img{
+    position: absolute;
+    right: 57px;
+    top: 450px;
+    width: 631px;
+    height: 334px;
+  }
+
+  button{
+
+    background-color:#ffce3d;
+    border-color: #ffce3d;
+    
+  }
+
+  .box-foo{
+    background-color: black;
+                        opacity: 60%;
+                        position: fixed;
+                        bottom: 0;
+                        width: 60%;
+                        margin-top: 10px;
+                        margin-left: 20%;
+                        border-top-right-radius: 20px;
+                        border-top-left-radius: 20px;
+                        text-align: center;
+                        padding-top: -2px;
+  }
+  footer {
+    padding-top: 0;
+    color: #ffffff;
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 1.5rem;
+  }
